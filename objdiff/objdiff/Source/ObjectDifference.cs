@@ -7,6 +7,11 @@ namespace objdiff
 		public ObjectDifference ()
 		{
 		}
+		
+		public void ComparePorperties(object left, object right)
+		{
+			
+		}
 	}
 }
 
